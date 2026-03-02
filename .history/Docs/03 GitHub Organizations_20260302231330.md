@@ -1,6 +1,6 @@
-# 🏢 **GitHub Organizations**
+# 🏢 **03 GitHub Organizations.md**
 
-
+# GitHub Organizations: Complete Guide
 
 ## 📋 **Table of Contents**
 1. [What is a GitHub Organization?](#what-is-a-github-organization)
