@@ -1,4 +1,4 @@
-
+![Alt text](https://github.com/InterCentury/Topics-Git-N-GitHub/blob/main/visuals/00.banner.jpg?raw=true)
 # Topics – Git & GitHub
 
 This repository is created to store important notes and references related to Git and GitHub.
