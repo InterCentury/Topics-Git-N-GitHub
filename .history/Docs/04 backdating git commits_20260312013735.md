@@ -31,8 +31,9 @@ git commit --date 'YYYY-MM-DD HH:MM:SS' -m "your message"
 ```bash
 # 1. Add your file(s)
 git add your-file.txt
+
 or,
-git add .
+
 
 # 2. Commit with past date
 git commit --date '2026-01-01 09:30:00' -m "update readme"
