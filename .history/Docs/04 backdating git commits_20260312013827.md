@@ -1,4 +1,4 @@
-# 📅 **Docs: Backdating Git\GitHub Commits**
+# 📅 **Backdating Git Commits **
 
 ---
 
